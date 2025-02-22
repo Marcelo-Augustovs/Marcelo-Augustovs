@@ -8,8 +8,8 @@
   <div style="display: inline_block"><br>
    <img align="center" alt="Java" height="100" width="100"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
    <img align="center" alt="SpringBoot" height="111" width="120"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
-   <img align="center" alt="JavaScript" height="80" width="120"   src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-   <img align="center" alt="React" height="100" width="120"       src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
+   <img align="center" alt="JavaScript" height="80" width="110"   src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+   <img align="center" alt="Angular" height="100" width="120"       src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg">
    <img align="center" alt="MySQL" height="160" width="120"       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   
    <img align="center" alt="Docker" height="100" width="100"  src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
