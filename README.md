@@ -1,10 +1,14 @@
 # Olá, eu sou Marcelo Augusto 👋
 
-💻 Desenvolvedor em formação com foco em desenvolvimento web e construção de aplicações utilizando Java, Spring Boot e JavaScript.
+💻 Desenvolvedor Full Stack com experiência na criação e manutenção de aplicações web, implementação de funcionalidades, integração de APIs REST, correção de bugs e evolução de sistemas. 
 
-Tenho experiência com organização de processos, gerenciamento de informações e ambientes de alta responsabilidade, adquirida durante minha trajetória na Força Aérea Brasileira, trazendo disciplina, análise e atenção aos detalhes para o desenvolvimento de soluções tecnológicas.
+Trabalhei com Java, Spring Boot, Angular, Next.js, NestJS, TypeScript, bancos de dados relacionais e Git.
 
-Atualmente desenvolvo projetos envolvendo APIs REST, aplicações web, bancos de dados e boas práticas de programação.
+Atuei em projetos profissionais e aplicações próprias envolvendo autenticação com Spring Security e JWT, modelagem de dados e desenvolvimento de interfaces administrativas. 
+
+Também possuo experiência em rotinas administrativas, apoio operacional e logística, desenvolvendo uma visão organizada dos processos e facilidade de adaptação a diferentes ambientes de trabalho.
+
+Perfil analítico, responsável, organizado e comprometido com a resolução de problemas, com boa capacidade de adaptação e foco na excelência do trabalho.
 
 ---
 
@@ -25,10 +29,17 @@ Atualmente desenvolvo projetos envolvendo APIs REST, aplicações web, bancos de
 - Aplicação web desenvolvida com HTML, CSS, JavaScript e Tailwind CSS.
 - Interface responsiva e foco em experiência do usuário.
 
-🚀 **APIs REST**
-- Desenvolvimento de APIs utilizando Java e Spring Boot.
-- Integração com banco de dados e documentação via Swagger.
-
+🚀 **MaNotes**
+- Desenvolvimento do frontend em Angular, utilizando arquitetura SPA e
+organização feature-based;
+- Modelagem e persistência de dados utilizando Spring Data JPA e MySQL;
+- Desenvolvimento do backend em Java com Spring Boot, implementando
+autenticação e autorização com Spring Security e JWT;
+- Integração com banco MySQL (produção) e H2 (testes);
+- Utilização de Angular Material para construção de UI;
+- Implementação de testes unitários com JUnit;
+- Arquitetura em camadas, aplicando princípios SOLID, APIs REST e boas
+práticas de desenvolvimento de software.
 ---
 
 ## 📊 GitHub Stats
